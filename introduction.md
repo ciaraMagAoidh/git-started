@@ -36,10 +36,7 @@ New changes to files can be saved while also retaining the changes made in all o
 * [Comparisons of version control software](https://en.wikipedia.org/wiki/Comparison_of_version-control_software)
 * [More comparisions](https://financesonline.com/version-control-systems/)
 
-### We will be using Git in this workshop
 
-<br>
-<br>
 
 ## Version control hosting software
 There are lots of solutions for hosting code repositories. They allow the people to collaborate on source code and manage a remote repository to which code changes can be committed to and pulled down to local machines. 
