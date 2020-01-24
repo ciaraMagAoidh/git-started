@@ -6,7 +6,7 @@ Coffee&Code is a volunteer lead group. We have been hosting beginner friendly co
 Today we will be learning about version control and source code repositories.
 
 You can find us on twitter here: [@BelfastCode](https://twitter.com/belfastcode)
-You can join join us on Meetup here: [Coffee&Code Belfast](https://www.meetup.com/coffee-code-belfast/)
+You can join us on Meetup here: [Coffee&Code Belfast](https://www.meetup.com/coffee-code-belfast/)
 
 <br>
 <br>
