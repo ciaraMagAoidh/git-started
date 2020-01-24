@@ -10,7 +10,7 @@
 <br>
 
 ### Creating a local repository using the terminal (mac) / command prompt (windows)
-I am putting all of project folders on the Desktop for this workshop, but you can you whatever folder you like.
+I am putting all of project folders on the Desktop for this workshop, but you can use whatever folder you like.
 (Hit the Enter key to execute each command)
 * Change directory to Desktop: ```cd Desktop```
 * Make a new directory for this task: ```mkdir git-started-task-1```
