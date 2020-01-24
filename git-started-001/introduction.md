@@ -44,7 +44,7 @@ New changes to files can be saved while also retaining the changes made in all o
 ## Version control hosting software
 There are lots of solutions for hosting code repositories. They allow the people to collaborate on source code and manage a remote repository to which code changes can be committed to and pulled down to local machines. 
 
-### Version control hosting offering
+### Version control hosting solutions
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/product)
 * [Gitea](https://gitea.io/en-us/)
