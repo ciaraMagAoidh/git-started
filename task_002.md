@@ -1,6 +1,6 @@
 # Task 2
 
-## fork my project and doing some exercises 
+## fork my project and do some exercises 
  make rock paper scissors with html, css, and js
  
  learn about
@@ -13,5 +13,5 @@
  - cherry picking
  - reversing changes
  - interactive rebasing
- -
+ 
  
