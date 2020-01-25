@@ -13,7 +13,7 @@ If you are new to using the Command Line, go to: [Command Line Cheatsheets / Res
 
 ## Install Git
 (Check to see if Git is already installed: ‘git --version’)
-### [Install the right version of git for your operating system](https://git-scm.com/downloads
+### [Install the right version of git for your operating system](https://git-scm.com/downloads)
 
 <br>
 <br>
