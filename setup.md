@@ -8,9 +8,13 @@ List directories in current working directory|```ls``` | ```dir```
 Display your location in the file system | ```pwd``` | ```chdir```
 Clear screen | ```clear``` | ```cls```
 
+If you are new to using the Command Line, go to: [Command Line Cheatsheets / Resources](https://github.com/ciaraMagAoidh/git-started/blob/master/cli-cheatsheet.md)
+
 
 ## Install Git
-### [Install the right version of git for your operating system](https://git-scm.com/downloads)
+(Check to see if Git is already installed: ‘git --version’)
+### [Install the right version of git for your operating system](https://git-scm.com/downloads
+
 <br>
 <br>
 
