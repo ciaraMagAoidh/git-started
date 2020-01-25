@@ -1,9 +1,10 @@
 # Task 2
 
 ## fork my project and do some exercises 
- make rock paper scissors with html, css, and js
+ Make rock paper scissors with html, css, and js
+ [Some ideas](https://codepen.io/viciouskitten/pen/GNKOMW)
  
- learn about
+ Learn about
  - branching
  - merging
  - conflict
@@ -13,5 +14,7 @@
  - cherry picking
  - reversing changes
  - interactive rebasing
+ 
+ 
  
  
