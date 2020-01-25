@@ -13,6 +13,7 @@
 * [learngitbranching.js.org](https://learngitbranching.js.org/)
 * [Visualising Git](http://git-school.github.io/visualizing-git/)
 * [GitHub Learning Lab](https://lab.github.com/)
+* [Fun tutorial to learn the Command Line (10 hours approx)](https://www.codecademy.com/learn/learn-the-command-line)
 
 
 
