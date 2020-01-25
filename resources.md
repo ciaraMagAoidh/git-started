@@ -10,9 +10,9 @@
 <br>
 
 ## Courses and Tutorials
-[learngitbranching.js.org](https://learngitbranching.js.org/)
-[Visualising Git](http://git-school.github.io/visualizing-git/)
-[GitHub Learning Lab](https://lab.github.com/)
+* [learngitbranching.js.org](https://learngitbranching.js.org/)
+* [Visualising Git](http://git-school.github.io/visualizing-git/)
+* [GitHub Learning Lab](https://lab.github.com/)
 
 
 

@@ -1,6 +1,6 @@
 # Task 2
 
-## Cloning my project and doing some exercises 
+## fork my project and doing some exercises 
  make rock paper scissors with html, css, and js
  
  learn about

@@ -20,6 +20,6 @@ Clear screen | ```clear``` | ```cls```
 <br>
 <br>
 
-## Install a code editor 
+## Download and install a code editor 
 ### [Visual Studio Code](https://code.visualstudio.com/Download)
 ### [Atom](https://atom.io/)
