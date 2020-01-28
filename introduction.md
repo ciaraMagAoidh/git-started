@@ -1,16 +1,4 @@
 # Introduction to Git Started
-Welcome to Git Started, a workshop by Coffee&Code.
-
-Coffee&Code is a volunteer lead group. We have been hosting beginner friendly code events from January 2019.
-
-Today we will be learning about version control and source code repositories.
-
-You can find us on twitter here: [@BelfastCode](https://twitter.com/belfastcode)
-You can join us on Meetup here: [Coffee&Code Belfast](https://www.meetup.com/coffee-code-belfast/)
-
-<br>
-<br>
-
 ## Version Control 
 ### What is version control?
 Version control is a component in software configuration management that allows us to manage the changes that are made to a project over time.
